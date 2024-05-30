@@ -2,7 +2,7 @@
 Version=1.0
 Type=Application
 Name=Abrir DUMP1090
-Comment=DUMP1090
+Comment=DUMP1090.
 Exec=sh -c "cd /home/orangepi/ORANGE/;sleep 10;sh ejecutar_dump1090.sh"
 Icon=/home/orangepi/ORANGE/AMBE_SERVER.png
 Terminal=false
